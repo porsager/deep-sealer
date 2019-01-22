@@ -1,10 +1,9 @@
 {
   "name": "deep-sealer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Takes an object and deeply seals it",
-  "main": "index.cjs.js",
+  "main": "index.legacy.js",
   "module": "index.js",
-  "browser": "index.browser.js",
   "author": "Rasmus Porsager <rasmus@porsager.com>",
   "repository": "porsager/deep-sealer",
   "license": "WTFPL"
